@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Gal",
     img: "mhQvdo0.png",
     opts: {
-      series: [ "CC/DO" ],
+      series: [ "CC/DO", "CT" ],
       pc: true
     },
   },
@@ -157,43 +157,43 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
+    name: "Francesca",
+    img: "r3uobSM.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
-      stage: ["st4", "ex"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
+    name: "Helen",
+    img: "whWBPK6.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
+    name: "Orianna",
+    img: "yck0HId.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
+    name: "Undine",
+    img: "o3jpXCa.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
+    name: "Victoria",
+    img: "CgWX3bB.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
-      stage: ["st5", "st6"]
+      series: [ "CC/DO" ],
+      npc: true
     }
   },
   {
