@@ -6,7 +6,6 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Series Entry",
     key: "series",
     tooltip: "Check this to restrict to certain series.",
-    checked: false,
     sub: [
       { name: "Castle Chaos/Dominion Odyssey", key: "CC/DO" },
       { name: "FC/OC Tabletop", key: "FCOC" },
@@ -117,43 +116,43 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
+    name: "Siren",
+    img: "1qdEnua.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    name: "Gabriel",
+    img: "8AvQ9L3.png",
     opts: {
-      series: ["book", "EoSD", "StB", "VD"],
-      stage: ["ex"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+    name: "Gwyn",
+    img: "ul0wgsI.png",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
-      stage: ["st1"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Chen",
-    img: "ohmetZh.png",
+    name: "Maxim",
+    img: "hPCThA5.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st2", "ex"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
+    name: "Vlad",
+    img: "yM0CdTP.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["st3"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
