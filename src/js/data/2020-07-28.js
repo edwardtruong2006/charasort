@@ -28,9 +28,9 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to remove non-player characters."
   },
   {
-    name: "Remove Non-Girls",
-    key: "notgirl",
-    tooltip: "Check this to remove all non-female characters."
+    name: "Remove PCs",
+    key: "pc",
+    tooltip: "Check this to remove all player characters."
   },
   {
     name: "Remove Nameless Characters",
@@ -46,14 +46,15 @@ dataSet[dataSetVersion].characterData = [
     img: "KT9DPRa.png",
     opts: {
       series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Lilah",
+    img: "sl0fHUG.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
-      stage: ["st4", "ex"]
+      series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
@@ -61,7 +62,6 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       series: ["book", "EoSD", "StB", "HM"],
-      stage: ["st1"]
     }
   },
   {
