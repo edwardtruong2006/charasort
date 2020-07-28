@@ -60,60 +60,60 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Rumia",
-    img: "0YT7QlS.png",
+    name: "Will",
+    img: "HIj1Z4x.png",
     opts: {
-      series: ["book", "EoSD", "StB", "HM"],
+      series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
+    name: "Gal",
+    img: "mhQvdo0.png",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st2", "ex"],
-      nameless: true
+      series: [ "CC/DO" ],
+      pc: true
     },
   },
   {
-    name: "Cirno",
-    img: "qdveFSy.png",
+    name: "Raymond",
+    img: "WdC4I4l.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
-      stage: ["st2"]
+      series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
+    name: "Rickert",
+    img: "fWWv6sX.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
-      stage: ["st3"]
+      series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
+    name: "Wu of the Cat's Eye",
+    img: "G9yAPmS.png",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st4"],
-      nameless: true
+      series: [ "CC/DO" ],
+      pc: true
     }
   },
   {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    name: "Lazarus",
+    img: "QKbfHoA.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
+      series: ["CC/DO"],
+      pc: true
     }
   },
   {
-    name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
+    name: "Aucta",
+    img: "5p2dHPl",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
-      stage: ["st5", "st6"]
+      series: [ "CC/DO" ],
+      pc: true,
+      npc: true
     }
   },
   {
