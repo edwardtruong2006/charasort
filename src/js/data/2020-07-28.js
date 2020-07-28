@@ -100,14 +100,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lazarus",
-    img: "QKbfHoA.png",
-    opts: {
-      series: ["CC/DO"],
-      pc: true
-    }
-  },
-  {
     name: "Aucta",
     img: "5p2dHPl",
     opts: {
