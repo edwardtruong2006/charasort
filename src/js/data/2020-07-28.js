@@ -197,51 +197,59 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
+    name: "Saya",
+    img: "sgZPf11.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
-      stage: ["st1", "st6"]
+      series: [ "CC/DO" ],
+      npc: true
     }
   },
   {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
+    name: "Hanzo",
+    img: "Dk1kGRw.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
-      stage: ["ex"]
+      series: [ "CC/DO", "SotI" ],
+      npc: true
     }
   },
   {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
+    name: "Kuzunoha",
+    img: "k5t1A6k.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
-      stage: ["ex"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
+    name: "Sesshouhime",
+    img: "xqmtNhp.png",
     opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      series: [ "CC/DO", "SotI", ],
+      npc: true
     }
   },
   {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
+    name: "Serpens",
+    img: "ANXWGwx.png",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st1"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
+    name: "Goldenia",
+    img: "FwblMU4.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st2"]
+      series: ["CC/DO"],
+      npc: true
+    }
+  },
+  {
+    name: "Iris",
+    img: "mQOlScK.png",
+    opts: {
+      series: ["CC/DO"],
+      pc: true
     }
   },
   {
