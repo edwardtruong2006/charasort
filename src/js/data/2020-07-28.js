@@ -6,6 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Series Entry",
     key: "series",
     tooltip: "Check this to restrict to certain series.",
+    checked: true,
     sub: [
       { name: "Castle Chaos/Dominion Odyssey", key: "CC/DO" },
       { name: "FC/OC Tabletop", key: "FCOC" },
