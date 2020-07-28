@@ -25,12 +25,14 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove NPCs",
     key: "npc",
-    tooltip: "Check this to remove non-player characters."
+    tooltip: "Check this to remove non-player characters.",
+    checked: false
   },
   {
     name: "Remove PCs",
     key: "pc",
-    tooltip: "Check this to remove all player characters."
+    tooltip: "Check this to remove all player characters.",
+    checked: false
   },
   {
     name: "Remove Nameless Characters",
