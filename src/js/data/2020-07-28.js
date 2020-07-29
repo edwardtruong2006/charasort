@@ -293,91 +293,91 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
+    name: "Alri",
+    img: "Yey3rst.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["TFO"],
+      npc: true
     }
   },
   {
-    name: "Shameimaru Aya",
-    img: "8TLXMST.png",
+    name: "Beatrix",
+    img: "GRa65oX.png",
     opts: {
-      series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
-      stage: ["st4"]
+      series: [ "TFO" ],
+      pc: true
     }
   },
   {
-    name: "Medicine Melancholy",
-    img: "IImsp7K.png",
+    name: "Golden Tanush",
+    img: "gyAWPCc.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st4"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Kazami Yuuka",
-    img: "MZXJQq5.png",
+    name: "Hitmetsuki",
+    img: "Gzs6jpd.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Onozuka Komachi",
-    img: "aX4WIH8.png",
+    name: "Joseph",
+    img: "heb5opD.png",
     opts: {
-      series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
-      stage: ["st5"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
-    img: "nPBvatH.png",
+    name: "Kappa",
+    img: "5uTMAe9.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Aki Shizuha",
-    img: "3pDRgvR.png",
+    name: "Landon Stryker",
+    img: "zHBSelY.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Aki Minoriko",
-    img: "bV0DaN7.png",
+    name: "Lin Yan",
+    img: "CrNcwO2.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Kagiyama Hina",
-    img: "J11NjNj.png",
+    name: "Logos",
+    img: "hT6Gx7a.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st2"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Kawashiro Nitori",
-    img: "4Ufced2.png",
+    name: "Rawiya",
+    img: "6jHhTpk.png",
     opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st3"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Inubashiri Momiji",
-    img: "qGMjnYk.png",
+    name: "Yafeu",
+    img: "Qut0Xgb.png",
     opts: {
-      series: ["MoF", "DS", "ISC"],
-      stage: ["st4"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
