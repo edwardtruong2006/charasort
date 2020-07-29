@@ -253,43 +253,43 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
+    name: "Chaos",
+    img: "FwIQoaQ.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
-      stage: ["st3", "ex"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "Alhazred",
+    img: "56xvNp6.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
+    name: "Darkness",
+    img: "PIfwKl7.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
-      stage: ["st5"]
+      series: ["CC/DO", "SotI"],
+      npc: true
     }
   },
   {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
+    name: "Dragnar",
+    img: "nJrqCqt.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
+    name: "Lorelei",
+    img: "CcgEc4W.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["CC/DO", "VS"],
+      npc: true
     }
   },
   {
