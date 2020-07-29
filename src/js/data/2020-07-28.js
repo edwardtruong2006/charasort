@@ -381,59 +381,59 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kochiya Sanae",
-    img: "ATTRSWU.png",
+    name: "Haiyan",
+    img: "tGUZm8D.png",
     opts: {
-      series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK"],
-      stage: ["st5", "ex"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Yasaka Kanako",
-    img: "nQ78Lz7.png",
+    name: "Lazarus Hightower",
+    img: "SUgmQX6.png",
     opts: {
-      series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6", "ex"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Moriya Suwako",
-    img: "yJaD5ZV.png",
+    name: "Lion Ushiromiya",
+    img: "E3H6YKj.png",
     opts: {
-      series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["ex"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Nagae Iku",
-    img: "xgAlECj.png",
+    name: "Liz",
+    img: "fQJH2yz.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "VD"],
-      stage: ["st5"]
+      series: ["Salv"],
+      npc: true
     }
   },
   {
-    name: "Hinanawi Tenshi",
-    img: "tZLYivt.png",
+    name: "Raymond Anderson",
+    img: "1BDJ2tV.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Kisume",
-    img: "VgJgaEf.png",
+    name: "Sancti Supplici",
+    img: "0eShIoC.png",
     opts: {
-      series: ["SA", "DS"],
-      stage: ["st1"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Kurodani Yamame",
-    img: "sqgJ2St.png",
+    name: "Willard H. Wright",
+    img: "tALPllY.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st1"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
