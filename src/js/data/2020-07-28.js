@@ -461,14 +461,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Urotsuki",
-    img: "G7AIcNW.png",
-    opts: {
-      series: ["FM"],
-      pc: true
-    }
-  },
-  {
     name: "Quinn",
     img: "G7AIcNW.png",
     opts: {
