@@ -437,75 +437,75 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mizuhashi Parsee",
-    img: "lkoAJod.png",
+    name: "Hitomi Mitsue",
+    img: "9fDB65M.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st2"]
+      series: ["FM"],
+      npc: true
     }
   },
   {
-    name: "Hoshiguma Yuugi",
-    img: "tDO653L.png",
+    name: "Keiyaku Kurushimi",
+    img: "R7oSMt0.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st3"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Komeiji Satori",
-    img: "dup7Nt6.png",
+    name: "Madotsuki",
+    img: "FQ3lFaS.png",
     opts: {
-      series: ["SA", "DS", "HM", "VD"],
-      stage: ["st4"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
-    img: "uQjbw1W.png",
+    name: "Urotsuki",
+    img: "G7AIcNW.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st4", "st5", "st6"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
-    img: "DfdaXPW.png",
+    name: "Quinn",
+    img: "G7AIcNW.png",
     opts: {
-      series: ["SA", "soku", "DS", "HM", "VD"],
-      stage: ["st6"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Komeiji Koishi",
-    img: "wVCcens.png",
+    name: "Sakura Tachibana",
+    img: "PdLY3ES.png",
     opts: {
-      series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["FM"],
+      npc: true
     }
   },
   {
-    name: "Nazrin",
-    img: "EpHQbiY.png",
+    name: "Sophia Leticia",
+    img: "o022IDb.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st1", "st5"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Tatara Kogasa",
-    img: "kJbv4dc.png",
+    name: "Urotsuki",
+    img: "zswuen9.png",
     opts: {
-      series: ["UFO", "TD", "DS", "HM"],
-      stage: ["st2", "ex"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
-    name: "Kumoi Ichirin",
+    name: "Vayla 'Vayla' Vayla",
     img: "Fyn5yVx.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"]
+      series: ["FM", "CT"],
+      pc: true
     }
   },
   {
