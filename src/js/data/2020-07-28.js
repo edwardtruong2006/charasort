@@ -63,7 +63,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Will",
     img: "HIj1Z4x.png",
     opts: {
-      series: [ "CC/DO" ],
+      series: [ "CC/DO", "CT" ],
       pc: true
     }
   },
@@ -304,7 +304,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Beatrix",
     img: "GRa65oX.png",
     opts: {
-      series: [ "TFO" ],
+      series: [ "TFO", "CT" ],
       pc: true
     }
   },
@@ -501,51 +501,51 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Murasa Minamitsu",
-    img: "39KYpvW.png",
+    name: "Azure",
+    img: "DWtFwgH.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st4"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Toramaru Shou",
-    img: "5yihisu.png",
+    name: "Lebes",
+    img: "jE1SpNl.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st5"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Hijiri Byakuren",
-    img: "2ppPxny.png",
+    name: "SOLSTICE",
+    img: "ZYONNz3.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Houjuu Nue",
-    img: "zL4S8Mj.png",
+    name: "Tony",
+    img: "4bvxiaO.png",
     opts: {
-      series: ["UFO", "DS", "TD", "HM", "VD"],
-      stage: ["st4", "st6", "ex"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Himekaidou Hatate",
-    img: "LgvoTaJ.png",
+    name: "Tracy Barrett",
+    img: "7kNd6hY.png",
     opts: {
-      series: ["DS", "HM", "ISC"],
-      stage: ["ex"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Sunny Milk",
-    img: "VbqXiB6.png",
+    name: "Josh",
+    img: "jyOculX.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["CT", "FSI:A"],
+      pc: true
     }
   },
   {
