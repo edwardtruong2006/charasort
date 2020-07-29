@@ -502,7 +502,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Vayla 'Vayla' Vayla",
-    img: "Fyn5yVx.png",
+    img: "dADXym8.png",
     opts: {
       series: ["FM", "CT"],
       pc: true
