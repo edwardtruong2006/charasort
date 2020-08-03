@@ -19,7 +19,8 @@ dataSet[dataSetVersion].options = [
       { name: "Objects of Subjectivity", key: "OoS" },
       { name: "Cyborg Bullshit", key: "CB" },
       { name: "SAO Tabletop", key: "SAO" },
-      { name: "Collateral Trauma", key: "CT" }
+      { name: "Collateral Trauma", key: "CT" },
+      { name: "Ethereal Unseen", key: "EU" }
     ]
   },
   {
@@ -549,99 +550,99 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Luna Child",
-    img: "OBqgP48.png",
+    name: "Adelyn Conteuse",
+    img: "JBAgkrr.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Star Sapphire",
-    img: "sNw61ap.png",
+    name: "Anastasia",
+    img: "uqDCa0u.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Kasodani Kyouko",
-    img: "sLiqEBA.png",
+    name: "Elizabeth Aeon",
+    img: "s15hGdz.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st2"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Miyako Yoshika",
-    img: "6jq6eh6.png",
+    name: "Emeline Nurucan",
+    img: "qaqeKy7.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st3", "st4"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Kaku Seiga",
-    img: "090hLPL.png",
+    name: "Label Unmei",
+    img: "8TZW40R.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st4"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Soga no Tojiko",
-    img: "y0UXwFO.png",
+    name: "Létt",
+    img: "EA2Amev.png",
     opts: {
-      series: ["TD", "HM"],
-      stage: ["st5"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Mononobe no Futo",
-    img: "WTZ97LE.png",
+    name: "Tecto Knight",
+    img: "Omtcotm.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st5"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Toyosatomimi no Miko",
-    img: "3Xiqd22.png",
+    name: "Zain Vaerpath",
+    img: "F05FMOY.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Futatsuiwa Mamizou",
-    img: "gMpWdmA.png",
+    name: "Zeruel",
+    img: "EqHkglT.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["SotI"],
+      pc: true
     }
   },
   {
-    name: "Hata no Kokoro",
-    img: "fxCGmUk.png",
+    name: "Kyle",
+    img: "eCfeAnb.png",
     opts: {
-      series: ["book", "HM", "ULiL", "AoCF"],
-      stage: ["st6"]
+      series: ["CT"],
+      pc: true
     }
   },
   {
-    name: "Wakasagihime",
-    img: "brWCLVx.png",
+    name: "Clarisse",
+    img: "qZEHVBj.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st1"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Sekibanki",
-    img: "VAMLiJD.png",
+    name: "Sister Sharon",
+    img: "SDlFewA.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st2"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
