@@ -566,11 +566,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Elizabeth Aeon",
-    img: "s15hGdz.png",
+    name: "Rumia",
+    img: "0YT7QlS.png",
     opts: {
-      series: ["SotI"],
-      pc: true
+      series: ["FM"],
+      npc: true
     }
   },
   {
@@ -646,19 +646,19 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Imaizumi Kagerou",
-    img: "qwwL0bB.png",
+    name: "Shopkeeper",
+    img: "vSmvXf9",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st3"]
+      series: ["Salv"],
+      pc: true
     }
   },
   {
-    name: "Tsukumo Benben",
-    img: "vWNeMaH.png",
+    name: "Madeleine Charbonnier",
+    img: "zO1rrMs.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
