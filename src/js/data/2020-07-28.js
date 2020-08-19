@@ -647,7 +647,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shopkeeper",
-    img: "vSmvXf9",
+    img: "vSmvXf9.png",
     opts: {
       series: ["Salv"],
       pc: true
