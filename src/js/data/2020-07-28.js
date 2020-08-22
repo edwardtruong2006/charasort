@@ -566,6 +566,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Elizabeth Aeon",
+    img: "s15hGdz.png",
+    opts: {
+      series: ["SotI"],
+      pc: true
+    }
+  },
+  {
     name: "Rumia",
     img: "0YT7QlS.png",
     opts: {
