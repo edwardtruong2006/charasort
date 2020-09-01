@@ -658,7 +658,7 @@ dataSet[dataSetVersion].characterData = [
     img: "vSmvXf9.png",
     opts: {
       series: ["Salv"],
-      pc: true
+      npc: true
     }
   },
   {
