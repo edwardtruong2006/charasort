@@ -497,7 +497,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Vayla",
     img: "OPbYHEs.png",
     opts: {
-      series: ["FM", "CT"],
+      series: ["CT"],
       pc: true
     }
   },
@@ -670,11 +670,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tsukumo Yatsuhashi",
-    img: "EJFQHQN.png",
+    name: "Vayla (FM)",
+    img: "5CPagqH.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      series: ["FM"],
+      pc: true
     }
   },
   {
