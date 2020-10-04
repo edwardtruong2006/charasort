@@ -825,10 +825,10 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rehmer",
-    img: "AHbFrjz.png",
+    img: "agnzTFu.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st6", "ex"]
+      series: ["LA"],
+      pc: true
     }
   },
   {
