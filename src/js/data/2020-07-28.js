@@ -22,7 +22,7 @@ dataSet[dataSetVersion].options = [
       { name: "Collateral Trauma", key: "CT" },
       { name: "Ethereal Unseen", key: "EU" },
       { name: "Bedlam City", key: "BC" },
-      {name: "Lobotomy Apollyon", key: "LA"}
+      { name: "Lobotomy Apollyon", key: "LA"}
     ]
   },
   {
