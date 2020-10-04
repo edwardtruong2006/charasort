@@ -609,7 +609,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Létt",
-    img: "EA2Amev.png",
+    img: "y9ZMaPn.png",
     opts: {
       series: ["SotI"],
       pc: true
