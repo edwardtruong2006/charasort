@@ -20,7 +20,9 @@ dataSet[dataSetVersion].options = [
       { name: "Cyborg Bullshit", key: "CB" },
       { name: "SAO Tabletop", key: "SAO" },
       { name: "Collateral Trauma", key: "CT" },
-      { name: "Ethereal Unseen", key: "EU" }
+      { name: "Ethereal Unseen", key: "EU" },
+      { name: "Bedlam City", key: "BC" },
+      {name: "Lobotomy Apollyon", key: "LA"}
     ]
   },
   {
@@ -175,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Orianna",
-    img: "yck0HId.png",
+    img: "FKa3dnX.png",
     opts: {
       series: ["CC/DO"],
       npc: true
@@ -385,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Haiyan",
     img: "tGUZm8D.png",
     opts: {
-      series: ["Salv"],
+      series: ["Salv", "LA"],
       pc: true
     }
   },
@@ -475,6 +477,14 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["FM"],
       npc: true
+    }
+  },
+    {
+    name: "Aerona Carne",
+    img: "rrQMLkg.png",
+    opts: {
+      series: ["FM"],
+      pc: true
     }
   },
   {
@@ -678,163 +688,163 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kijin Seija",
-    img: "16RUacj.png",
+    name: "Exodia",
+    img: "jnQqf8N.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st5", "st6"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
-    img: "Zl2tN7W.png",
+    name: "Alia Luna",
+    img: "PVuZcQz.png",
     opts: {
-      series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Horikawa Raiko",
-    img: "SLLEccR.png",
+    name: "Arthur Morgan",
+    img: "hknFu1q.png",
     opts: {
-      series: ["DDC", "ISC", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Usami Sumireko",
-    img: "mc7ICW6.png",
+    name: "Cozy Glow",
+    img: "FHrIk12.png",
     opts: {
-      series: ["ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Seiran",
-    img: "0ra00WG.png",
+    name: "Mark Xan",
+    img: "Xhmi9pE.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st1"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Ringo",
-    img: "xQOsFlZ.png",
+    name: "Neptune",
+    img: "KmJW2mA.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st2"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Doremy Sweet",
-    img: "rGS7dyn.png",
+    name: "Paige Martin",
+    img: "axSl4XI.png",
     opts: {
-      series: ["LoLK", "AoCF", "VD"],
-      stage: ["st3", "ex"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Kishin Sagume",
-    img: "HLT338X.png",
+    name: "Stufato Zeppeli",
+    img: "Oo0n1Jz.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st4"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Clownpiece",
-    img: "9Jje7ZQ.jpg",
+    name: "Amanda Coeus",
+    img: "JUsH7Qy.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st5"]
+      series: ["EU"],
+      pc: true
     }
   },
   {
-    name: "Junko",
-    img: "NsfLZjY.jpg",
+    name: "Asahi Sosaku",
+    img: "vvvj71x.jpg",
     opts: {
-      series: ["LoLK", "VD"],
+      series: ["EU"],
+      pc: true
+    }
+  },
+  {
+    name: "Camber Brown",
+    img: "2G91mhl.png",
+    opts: {
+      series: ["EU"],
+      pc: true
+    }
+  },
+  {
+    name: "Celia Teddy",
+    img: "2exE3br.png",
+    opts: {
+      series: ["EU"],
+      pc: true
+    }
+  },
+  {
+    name: "Isabella Argemt",
+    img: "KFgNLwF.png",
+    opts: {
+      series: ["EU"],
+      pc: true
+    }
+  },
+  {
+    name: "Karitei mo Kasa",
+    img: "tAaGmN9.png",
+    opts: {
+      series: ["EU"],
+      pc: true
+    }
+  },
+  {
+    name: "Colt Manson",
+    img: "FMjKsYb.png",
+    opts: {
+      series: ["LA"],
+      pc: true
+    }
+  },
+  {
+    name: "Neptune Delusa",
+    img: "L3PhP84.png",
+    opts: {
+      series: ["LA"],
+      pc: true
+    }
+  },
+  {
+    name: "Raina",
+    img: "vPMNXBY.png",
+    opts: {
+      series: ["LA"],
+      pc: true
+    }
+  },
+  {
+    name: "Rehmer",
+    img: "AHbFrjz.png",
+    opts: {
+      series: ["HSiFS", "VD"],
       stage: ["st6", "ex"]
     }
   },
   {
-    name: "Hecatia Lapislazuli",
-    img: "EH3Ulol.png",
+    name: "Arcadia",
+    img: "G8ZL3dj.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["ex"]
+      series: ["VS"],
+      pc: true
     }
   },
   {
-    name: "Eternity Larva",
-    img: "ql5KxJH.png",
+    name: "Guy",
+    img: "WAOhqlC.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Sakata Nemuno",
-    img: "gYFhJ3Y.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st2"]
-    }
-  },
-  {
-    name: "Komano Aunn",
-    img: "wWUStkF.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Yatadera Narumi",
-    img: "wrPVhAo.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Nishida Satono",
-    img: "8w9gAy2.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Teireida Mai",
-    img: "DesAqAC.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Matara Okina",
-    img: "icWvMyo.png",
-    opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st6", "ex"]
-    }
-  },
-  {
-    name: "Yorigami Shion",
-    img: "LenxXR4.png",
-    opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Yorigami Joon",
-    img: "V9OznT1.png",
-    opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      series: ["VS"],
+      pc: true
     }
   },
   {
@@ -846,27 +856,27 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ushizaki Urumi",
-    img: "ru2vIIW.png",
+    name: "Shirou Emiya",
+    img: "dZGavE8.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st2"]
+      series: ["VS"],
+      pc: true
     }
   },
   {
-    name: "Niwatari Kutaka",
-    img: "QTQt0ZL.png",
+    name: "Teddie",
+    img: "oNF71oP.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st3"]
+      series: ["VS"],
+      pc: true
     }
   },
   {
-    name: "Kicchou Yachie",
-    img: "CzcIMxF.png",
+    name: "Valev",
+    img: "xqIAWTo.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st4"]
+      series: ["VS", "SotI"],
+      pc: true
     }
   },
   {
