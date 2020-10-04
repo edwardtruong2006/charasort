@@ -817,7 +817,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raina",
-    img: "vPMNXBY.png",
+    img: "oxLGpKT.png",
     opts: {
       series: ["LA"],
       pc: true
