@@ -784,7 +784,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Isabella Argemt",
+    name: "Isabella Argent",
     img: "KFgNLwF.png",
     opts: {
       series: ["EU"],
@@ -875,24 +875,24 @@ dataSet[dataSetVersion].characterData = [
     name: "Valev",
     img: "xqIAWTo.png",
     opts: {
-      series: ["VS", "SotI"],
+      series: ["VS", "Salv"],
       pc: true
     }
   },
   {
-    name: "Joutouguu Mayumi",
-    img: "GxeziYO.png",
+    name: "Sakura Sajan",
+    img: "r3kX003.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st5"]
+      series: ["LA"],
+      pc: true
     }
   },
   {
-    name: "Haniyasushin Keiki",
-    img: "Z4jclTi.png",
+    name: "Saru",
+    img: "yfCDRYD.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st6"]
+      series: ["LA"],
+      pc: true
     }
   },
   {
