@@ -377,7 +377,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yafeu",
-    img: "Qut0Xgb.png",
+    img: "Z7uelR6.png",
     opts: {
       series: ["TFO"],
       pc: true
@@ -896,36 +896,35 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kurokoma Saki",
-    img: "H2v2GPy.png",
+    name: "Abigail",
+    img: "IcbmeT2.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["ex"]
+      series: ["TFO"],
+      pc: true
     }
   },
   {
-    name: "Hieda no Akyuu",
-    img: "ogONuLZ.png",
+    name: "Agent",
+    img: "BVpcB8B.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["TFO"],
+      pc: true
     }
   },
   { 
-    name: "Tokiko",
-    img: "Y4maOc8.png", 
+    name: "Charlotte Outus",
+    img: "jdOQpFA.png", 
     opts: {
-      series: ["book"],
-      stage: [],
-      nameless: true
+      series: ["TFO"],
+      pc: true
     } 
   },
   {
-    name: "Reisen (Manga)",
-    img: "cWjCo2j.png",
+    name: "The Wanderer",
+    img: "LIHmnHJ.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["TFO"],
+      pc: true
     }
   },
   {
