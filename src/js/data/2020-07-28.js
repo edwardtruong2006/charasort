@@ -912,7 +912,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   { 
-    name: "Charlotte Outus",
+    name: "Charlotte",
     img: "jdOQpFA.png", 
     opts: {
       series: ["TFO"],
