@@ -928,68 +928,67 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Watatsuki no Toyohime",
-    img: "uEBxsEX.png",
+    name: "Iram",
+    img: "O97TM5F.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Watatsuki no Yorihime",
-    img: "Txu2P7S.png",
+    name: "Linx Rifelson",
+    img: "1gcfcQh.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Maribel Hearn",
-    img: "XUI9vPo.png",
+    name: "Nicomedes Oneiroi",
+    img: "iHSm62z.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Usami Renko",
-    img: "1P5EXRt.png",
+    name: "Odin",
+    img: "YEKu1gG.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Ibaraki Kasen",
-    img: "dQHnPPe.png",
+    name: "Steve",
+    img: "4KTh3Ih.png",
     opts: {
-      series: ["book", "ULiL", "AoCF"],
-      stage: ["st5"]
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Motoori Kosuzu",
-    img: "jEsJJo8.png",
+    name: "Tessera",
+    img: "UQQpM2J.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Okunoda Miyoi",
-    img: "JZnExhN.png",
+    name: "Xander Alsandair",
+    img: "7yFmTus.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["FCOC"],
+      pc: true
     }
   },
   {
-    name: "Hakurei Reimu (PC-98)",
-    img: "IZsGAMS.png",
+    name: "Abyssion",
+    img: "6nbOEJs.png",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
+      series: ["FCOC"],
+      npc: true
     }
   },
   {
