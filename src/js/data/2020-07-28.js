@@ -984,14 +984,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Abyssion",
-    img: "6nbOEJs.png",
-    opts: {
-      series: ["FCOC"],
-      npc: true
-    }
-  },
-  {
     name: "Shingyoku (Female)",
     img: "KuPiR2k.png",
     opts: {
