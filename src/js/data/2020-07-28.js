@@ -992,144 +992,139 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shingyoku (Female)",
-    img: "KuPiR2k.png",
+    name: "Fen",
+    img: "pFgGxd8.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st1"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Mima",
-    img: "odH03t2.png",
+    name: "Gwen",
+    img: "U3m4NDb.png",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "MS"],
-      stage: ["st3", "st5", "st6"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Elis",
-    img: "ytnL1xd.png",
+    name: "Lieselotte",
+    img: "1nQBToC.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Kikuri",
-    img: "fX2Kqik.png",
+    name: "Sieghart",
+    img: "LAZds0z.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Sariel",
-    img: "Wyc7YFw.png",
+    name: "The Director",
+    img: "LR5oU2T.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
+      series: ["CC/DO"],
+      npc: true
     }
   },
   {
-    name: "Konngara",
-    img: "dg9jLHv.png",
+    name: "Constantine Amaouros",
+    img: "B4I2cYr.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Rika",
-    img: "02Xb4pU.png",
+    name: "Anise",
+    img: "BHRL7Mr.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["st1", "ex"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Meira",
-    img: "p529JgT.png",
+    name: "Emelious Amaouros",
+    img: "whvmTN7.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["st2"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Kirisame Marisa (PC-98)",
-    img: "wxE7cBm.png",
+    name: "Gethwine",
+    img: "YEyutkL.png",
     opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
-    }
-  },
-  { name: "Ellen", img: "3iNNL0c.png", opts: {
-      series: ["PoDD"],
-      stage: []
-    } },
-  {
-    name: "Kotohime",
-    img: "kRSGtpq.png",
-    opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Kana Anaberal",
-    img: "rBvKMk5.png",
+    name: "Helstia",
+    img: "k7F3LMr.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Asakura Rikako",
-    img: "VIf5gUK.png",
+    name: "Jeanne",
+    img: "28OwdP6.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Kitashirakawa Chiyuri",
-    img: "tZFBycy.png",
+    name: "Knight Clad in Dark",
+    img: "MFz3PGy.png",
     opts: {
-      series: ["PoDD"],
-      stage: ["st5"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Okazaki Yumemi",
-    img: "c9rnG3n.png",
+    name: "Mariabell Veil'Vanis",
+    img: "4DmvIur.png",
     opts: {
-      series: ["PoDD"],
-      stage: ["st6"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Ruukoto",
-    img: "dko67SJ.png",
+    name: "Rebecca Friede Ende",
+    img: "640mKGP.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Orange",
-    img: "m8wXE5U.png",
+    name: "Sapphira",
+    img: "PeRNaLK.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st1"]
+      series: ["SotI"],
+      npc: true
     }
   },
   {
-    name: "Kurumi",
-    img: "0rvq1ph.png",
+    name: "Scala Conteuse",
+    img: "IMJqR2v.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st2"]
+      series: ["SotI"],
+      npc: true
+    }
+  },
+  {
+    name: "Valerie",
+    img: "99H7LaA.png",
+    opts: {
+      series: ["SotI"],
+      npc: true
     }
   },
   {
