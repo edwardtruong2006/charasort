@@ -22,7 +22,8 @@ dataSet[dataSetVersion].options = [
       { name: "Collateral Trauma", key: "CT" },
       { name: "Ethereal Unseen", key: "EU" },
       { name: "Bedlam City", key: "BC" },
-      { name: "Lobotomy Apollyon", key: "LA"}
+      { name: "Lobotomy Apollyon", key: "LA" },
+      { name: "Danganronpa: Memento Mori", key: "DRMM" }
     ]
   },
   {
@@ -1128,162 +1129,147 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Elly",
-    img: "iIPftHn.png",
+    name: "Alice Crane",
+    img: "60p8znJ.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st3"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Yuuka (PC-98)",
-    img: "ivUSwxp.png",
+    name: "Ano Tsukimi",
+    img: "4Uyb4RJ.png",
     opts: {
-      series: ["LLS", "MS"],
-      stage: ["st5", "st6"],
-      pc98: true
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Mugetsu",
-    img: "bYA9E16.png",
+    name: "Carré",
+    img: "sZ9A7x8.png",
     opts: {
-      series: ["LLS"],
-      stage: ["ex"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Gengetsu",
-    img: "TIOTtV9.png",
+    name: "Honō no Ikari",
+    img: "mdgXthJ.png",
     opts: {
-      series: ["LLS"],
-      stage: ["ex"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Sara",
-    img: "2QUbCrU.png",
+    name: "Juno Melodiana",
+    img: "yOlvhNl.png",
     opts: {
-      series: ["MS"],
-      stage: ["st1"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Louise",
-    img: "nDM5aB6.png",
+    name: "Project SCAR",
+    img: "1zcjQHG.png",
     opts: {
-      series: ["MS"],
-      stage: ["st2", "st4"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Alice (PC-98)",
-    img: "KaBuRTW.png",
+    name: "Shizue Kondo",
+    img: "X2fsYPY.png",
     opts: {
-      series: ["MS"],
-      stage: ["st3", "ex"],
-      pc98: true
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Yuki",
-    img: "FfcmDgp.png",
+    name: "Teppei",
+    img: "ERExS9H.png",
     opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    }
-  },
-  { name: "Mai", img: "r6w7TX1.png", opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    } },
-  {
-    name: "Yumeko",
-    img: "PcPqkdO.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st5"]
+      series: ["BC"],
+      pc: true
     }
   },
   {
-    name: "Shinki",
-    img: "gPE95S7.png",
+    name: "Ayeka Joho",
+    img: "R65Q2h6.png",
     opts: {
-      series: ["MS"],
-      stage: ["st6"]
+      series: ["DRMM"],
+      pc: true
     }
   },
   {
-    name: "Mimi-chan",
-    img: "zBl2zlv.png",
+    name: "Clay Kurihara",
+    img: "BZYlDTg.png",
     opts: {
-      series: ["PoDD"],
-      stage: [],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true
     }
   },
   {
-    name: "Unzan",
-    img: "r5eWREh.png",
+    name: "Doryom Urbieta",
+    img: "zN4Qa9c.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"],
-      notgirl: true
+      series: ["DRMM"],
+      pc: true 
     }
   },
   {
-    name: "Genji",
-    img: "LoUqOuH.png",
+    name: "Fatima Inoue",
+    img: "J4moLqr.png",
     opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: [],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true
     }
   },
   {
-    name: "Shingyoku (Male)",
-    img: "a5uwlgN.png",
+    name: "Kazumi Kai",
+    img: "kqWJuqG.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st1"],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true 
     }
   },
   {
-    name: "YuugenMagan",
-    img: "IOW8GdU.png",
+    name: "Marianne Hoga",
+    img: "N6imMEn.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st3"],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true 
     }
   },
   {
-    name: "Evil Eye Sigma",
-    img: "rAFUMwE.png",
+    name: "Markiel Daniels",
+    img: "RwWRAUb.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["ex"],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true 
     }
   },
   {
-    name: "Great Catfish",
-    img: "BgRi9Oh.png",
+    name: "Maya Amamiya",
+    img: "2QXHbKk.png",
     opts: {
-      series: ["soku", "AoCF"],
-      stage: ["st6"],
-      notgirl: true,
-      nameless: true
+      series: ["DRMM"],
+      pc: true 
     }
   },
   {
-    name: "Morichika Rinnosuke",
-    img: "ITUhsGj.png",
+    name: "Sashi Hironaka",
+    img: "6dS0lZH.png",
     opts: {
-      series: ["book", "HM"],
-      stage: [],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true
+    }
+  },
+  {
+    name: "Shison Kageyama",
+    img: "UelA5Pr.png",
+    opts: {
+      series: ["DRMM"],
+      pc: true
     }
   },
   {
