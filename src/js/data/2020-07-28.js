@@ -1281,12 +1281,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hisoutensoku",
-    img: "P4JZ2it.png",
+    name: "Hikari Kira",
+    img: "AG0M9UD.png",
     opts: {
-      series: ["soku"],
-      stage: [],
-      notgirl: true 
+      series: ["DRMM"],
+      pc: true 
     }
   }
 ];
