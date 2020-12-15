@@ -1284,7 +1284,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Hikari Kira",
     img: "AG0M9UD.png",
     opts: {
-      series: ["DRMM"],
+      series: [ "DRMM" ],
       pc: true 
     }
   }
