@@ -1273,13 +1273,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fortune Teller",
-    img: "BYot23O.png",
+    name: "Vivian James",
+    img: "cCy2qBc.png",
     opts: {
-      series: ["book"],
-      stage: [],
-      notgirl: true,
-      nameless: true
+      series: ["DRMM"],
+      pc: true
     }
   },
   {
