@@ -1281,6 +1281,30 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Asuka Setsuka",
+    img: "vfXX7VQ.png",
+    opts: {
+      series: ["DRMM"],
+      pc: true
+    }
+  },
+  {
+    name: "Mirai Amachi",
+    img: "eLzXd65.png",
+    opts: {
+      series: ["DRMM"],
+      pc: true
+    }
+  },
+  {
+    name: "Alyssa Morita",
+    img: "XFfUD0j.png",
+    opts: {
+      series: ["DRMM"],
+      npc: true
+    }
+  },
+  {
     name: "Hikari Kira",
     img: "AG0M9UD.png",
     opts: {
