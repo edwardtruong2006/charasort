@@ -1305,6 +1305,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ryu Hisoka",
+    img: "h5UkWWd.png",
+    opts: {
+      series: ["DRMM"],
+      pc: true
+    }
+  },
+  {
     name: "Hikari Kira",
     img: "AG0M9UD.png",
     opts: {
