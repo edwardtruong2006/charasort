@@ -1281,6 +1281,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Koyama Kira",
+    img: "Ww4tLEY.png",
+    opts: {
+      series: ["DRMM"],
+      pc: true
+    }
+  },
+  {
     name: "Asuka Setsuka",
     img: "vfXX7VQ.png",
     opts: {
