@@ -1073,10 +1073,10 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Jeanne",
-    img: "28OwdP6.png",
+    name: "Mami Tomoe",
+    img: "Guy15d5.png",
     opts: {
-      series: ["SotI"],
+      series: ["FM"],
       npc: true
     }
   },
@@ -1325,6 +1325,38 @@ dataSet[dataSetVersion].characterData = [
     img: "AG0M9UD.png",
     opts: {
       series: ["DRMM"],
+      pc: true 
+    }
+  },
+  {
+    name: "Jane Valindor",
+    img: "KFZ31zZ.png",
+    opts: {
+      series: ["SotI"],
+      pc: true 
+    }
+  },
+  {
+    name: "Ani d'Aubigny",
+    img: "dDyHOaa.png",
+    opts: {
+      series: ["SotI"],
+      pc: true 
+    }
+  },
+  {
+    name: "Cydes",
+    img: "cUfzvZa.png",
+    opts: {
+      series: ["SotI"],
+      pc: true 
+    }
+  },
+  {
+    name: "Blues Voltaire",
+    img: "L5t8oXd.png",
+    opts: {
+      series: ["SotI"],
       pc: true 
     }
   }
