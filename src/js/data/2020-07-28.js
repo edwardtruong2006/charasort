@@ -23,7 +23,8 @@ dataSet[dataSetVersion].options = [
       { name: "Ethereal Unseen", key: "EU" },
       { name: "Bedlam City", key: "BC" },
       { name: "Lobotomy Apollyon", key: "LA" },
-      { name: "Danganronpa: Memento Mori", key: "DRMM" }
+      { name: "Danganronpa: Memento Mori", key: "DRMM" },
+      { name: "Persona: The World's Trial", key: "PTWT" }
     ]
   },
   {
@@ -1357,6 +1358,86 @@ dataSet[dataSetVersion].characterData = [
     img: "L5t8oXd.png",
     opts: {
       series: ["SotI"],
+      pc: true 
+    }
+  },
+  {
+    name: "Akari Watanabe",
+    img: "TlEcmFb.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Ayaka Akemi",
+    img: "3O0gmvp.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Charlotte Russel",
+    img: "X2cVzDF.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Emma Kōmori",
+    img: "WwBrI7Y.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Inori Ayame",
+    img: "ikip1aY.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Keisuke Matsuo",
+    img: "oBntmbM.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Shoto Kanda",
+    img: "cMhhNwU.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Ten Takashi",
+    img: "RFm8GUI.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Tengoku Angelos",
+    img: "BbrHIm3.png",
+    opts: {
+      series: ["PTWT"],
+      pc: true 
+    }
+  },
+  {
+    name: "Yoru Tsuki",
+    img: "n6bl2cb.png",
+    opts: {
+      series: ["PTWT"],
       pc: true 
     }
   }
