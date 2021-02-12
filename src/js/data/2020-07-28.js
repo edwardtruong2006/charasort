@@ -54,7 +54,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove Female Characters",
     key: "female",
-    tooltip: "Check this to remove all characters that are female.",
+    tooltip: "Check this to remove all female characters.",
     checked: false
   }
 ];
