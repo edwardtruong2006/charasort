@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Francesca",
+    name: "Francesca Friede Ende",
     img: "r3uobSM.png",
     opts: {
       series: ["CC/DO"],
@@ -658,7 +658,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Anastasia",
+    name: "Anastasia Friede Ende",
     img: "l0YkJBd.png",
     opts: {
       series: ["SotI"],
@@ -1053,7 +1053,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   { 
-    name: "Charlotte",
+    name: "Charlotte Outus",
     img: "jdOQpFA.png", 
     opts: {
       series: ["TFO"],
