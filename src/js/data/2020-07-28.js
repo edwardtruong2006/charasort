@@ -40,9 +40,9 @@ dataSet[dataSetVersion].options = [
     checked: false
   },
   {
-    name: "Remove Nameless Characters",
-    key: "nameless",
-    tooltip: "Check this to remove all characters without canonical names.",
+    name: "Remove Child Characters",
+    key: "child",
+    tooltip: "Check this to remove all characters below the age of 18.",
     checked: false
   }
 ];
@@ -69,7 +69,8 @@ dataSet[dataSetVersion].characterData = [
     img: "HIj1Z4x.png",
     opts: {
       series: [ "CC/DO", "CT" ],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -142,7 +143,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ul0wgsI.png",
     opts: {
       series: ["CC/DO"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
@@ -197,7 +199,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Victoria",
     img: "CgWX3bB.png",
     opts: {
-      series: [ "CC/DO" ],
+      series: [ "CC/DO", "SotI" ],
       npc: true
     }
   },
@@ -238,7 +240,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ANXWGwx.png",
     opts: {
       series: ["CC/DO"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
@@ -254,7 +257,8 @@ dataSet[dataSetVersion].characterData = [
     img: "mQOlScK.png",
     opts: {
       series: ["CC/DO"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -414,7 +418,8 @@ dataSet[dataSetVersion].characterData = [
     img: "fQJH2yz.png",
     opts: {
       series: ["Salv"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
@@ -454,7 +459,8 @@ dataSet[dataSetVersion].characterData = [
     img: "R7oSMt0.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -470,7 +476,8 @@ dataSet[dataSetVersion].characterData = [
     img: "G7AIcNW.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -478,7 +485,8 @@ dataSet[dataSetVersion].characterData = [
     img: "PdLY3ES.png",
     opts: {
       series: ["FM"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
     {
@@ -486,7 +494,8 @@ dataSet[dataSetVersion].characterData = [
     img: "rrQMLkg.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -494,7 +503,8 @@ dataSet[dataSetVersion].characterData = [
     img: "o022IDb.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -566,7 +576,8 @@ dataSet[dataSetVersion].characterData = [
     img: "JBAgkrr.png",
     opts: {
       series: ["SotI"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -590,7 +601,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       series: ["FM"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
@@ -678,7 +690,8 @@ dataSet[dataSetVersion].characterData = [
     img: "zO1rrMs.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -686,7 +699,8 @@ dataSet[dataSetVersion].characterData = [
     img: "5CPagqH.png",
     opts: {
       series: ["FM"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -718,7 +732,8 @@ dataSet[dataSetVersion].characterData = [
     img: "FHrIk12.png",
     opts: {
       series: ["BC"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -774,7 +789,8 @@ dataSet[dataSetVersion].characterData = [
     img: "2G91mhl.png",
     opts: {
       series: ["EU"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -782,7 +798,8 @@ dataSet[dataSetVersion].characterData = [
     img: "2exE3br.png",
     opts: {
       series: ["EU"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -798,7 +815,8 @@ dataSet[dataSetVersion].characterData = [
     img: "tAaGmN9.png",
     opts: {
       series: ["EU"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -838,7 +856,8 @@ dataSet[dataSetVersion].characterData = [
     img: "G8ZL3dj.png",
     opts: {
       series: ["VS"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -846,7 +865,8 @@ dataSet[dataSetVersion].characterData = [
     img: "WAOhqlC.png",
     opts: {
       series: ["VS"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -870,7 +890,8 @@ dataSet[dataSetVersion].characterData = [
     img: "oNF71oP.png",
     opts: {
       series: ["VS"],
-      pc: true
+      pc: true,
+      child: true
     }
   },
   {
@@ -1046,7 +1067,8 @@ dataSet[dataSetVersion].characterData = [
     img: "BHRL7Mr.png",
     opts: {
       series: ["SotI"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
@@ -1078,7 +1100,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Guy15d5.png",
     opts: {
       series: ["FM"],
-      npc: true
+      npc: true,
+      child: true
     }
   },
   {
