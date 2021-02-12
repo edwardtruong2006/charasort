@@ -742,7 +742,8 @@ dataSet[dataSetVersion].characterData = [
     img: "jnQqf8N.png",
     opts: {
       series: ["TFO"],
-      pc: true
+      pc: true,
+      male: true
     }
   },
   {
@@ -863,7 +864,8 @@ dataSet[dataSetVersion].characterData = [
     img: "FMjKsYb.png",
     opts: {
       series: ["LA"],
-      pc: true
+      pc: true,
+      male: true
     }
   },
   {
