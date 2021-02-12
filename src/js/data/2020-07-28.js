@@ -52,7 +52,7 @@ dataSet[dataSetVersion].options = [
     checked: false
   },
   {
-    name: "Remove Male Characters",
+    name: "Remove Female Characters",
     key: "female",
     tooltip: "Check this to remove all characters that are female.",
     checked: false
